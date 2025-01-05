@@ -69,7 +69,8 @@ endmodule
 
 **TIMING WAVEFORM**
 
-![image](https://github.com/user-attachments/assets/376105f2-c450-437d-827e-34398b6ed0d4)
+![image](https://github.com/user-attachments/assets/4f519711-a5aa-4ff8-8ef9-7a78a5cca31c)
+
 
 
 
